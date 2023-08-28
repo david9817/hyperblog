@@ -27,3 +27,20 @@ body
     color: blue;
     text-align: center;
 }
+#cabecera
+{
+    font-size: 25px;
+    background-color: mediumblue;
+    color: aliceblue;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+    box-shadow:  -15px 15px 17px -14px rgba(43,9,153,1);
+}
+
+#subtitulo
+{
+    font-size: 15px;
+    color: aqua;
+    
+}
