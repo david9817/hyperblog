@@ -1,0 +1,46 @@
+body
+{
+    text-align: center;
+    font-family: 'Arial';
+    font-size: 10px;
+    margin: 0;
+    padding: 0;
+}
+
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid red;
+    margin: 0 auto;
+}
+#container h1
+{
+    font-size: 25px;
+    text-align: center;
+    color: cadetblue; 
+}
+#container p
+{
+    font-size: 15px;
+    color: blue;
+    text-align: center;
+}
+#cabecera
+{
+    font-size: 25px;
+    background-color: mediumblue;
+    color: yellowgreen;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+    box-shadow:  -15px 15px 17px -14px rgba(43,9,153,1);
+}
+
+#subtitulo
+{
+    font-size: 15px;
+    color: aqua;
+    
+}
